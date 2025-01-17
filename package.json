@@ -1,0 +1,28 @@
+{
+  "name": "natures-cycles",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "howler": "^2.2.4",
+    "seedrandom": "^3.0.5",
+    "three": "^0.153.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.18.0",
+    "prettier": "^3.4.2",
+    "vite": "^4.5.5"
+  },
+  "keywords": [
+    "three.js",
+    "simulation",
+    "nature",
+    "cycle"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
